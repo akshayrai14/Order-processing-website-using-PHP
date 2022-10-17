@@ -1,0 +1,88 @@
+.login{
+    position: absolute;
+    top: 2%;
+    right: 24%;
+    width: 48%;
+    background: skyblue;
+    padding: 2%;
+    text-align: center;
+    text-size-adjust: auto;
+    border-radius: 11%;
+    font-size: 120%;
+    padding-top: 0%;
+    background: linear-gradient(45deg, white, transparent);
+    font-style: italic;
+}
+.basket{
+    font-style: italic;
+    position: absolute;
+    top: 44%;
+    right: 24%;
+    /* padding-top: 0%; */
+    width: 52%;
+    background: linear-gradient(45deg, white, transparent);
+    text-align: center;
+    font-size: 113%;
+    border-radius: 10%;
+}
+.butt{
+    position: absolute;
+    top: 83%;
+    right: 28%;
+    width: 10%;
+    height: 10%;
+    font-size: 122%;
+    font-style: italic;
+}
+.butto{
+    position: absolute;
+    top: 69%;
+    right: 35%;
+    size: a3;
+    width: 30%;
+    height: 20%;
+    font-size: 20px;
+    font-style: italic;
+    border-radius: 50%;
+}
+.ko{
+    position: absolute;
+    top: 27%;
+    left: 62%;
+    width: 10%;
+    height: 10%;
+    font-size: 112%;
+    font-style: italic;
+}
+.emem{
+    position: absolute;
+    top: 9%;
+    right: 23%;
+    background: lightcoral;
+    width: 50%;
+    height: 20%;
+    text-align: center;
+    padding-top: 6%;
+    font-size: 28px;
+    font-style: italic;
+    font-weight: 100;
+    color: whitesmoke;
+    border-radius: 22%;
+    background: linear-gradient(45deg, blue, transparent);
+}
+.tab{
+    position: absolute;
+    top: 58%;
+    right: 23%;
+    font-size: 154%;
+    border: double;
+}
+.bo{
+    background-color: yellowgreen;
+}
+.popo{
+    background: yellow;
+}
+td{
+    border: solid;
+}
